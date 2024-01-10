@@ -6,7 +6,7 @@
 </p>
 <br>
 <h5>My GitHub Stats</h5>
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javier0015=dark&show_icons=true&count_private=true" />
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javier0015" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Javier0015&theme=dark&hide_border=false" /> 
 </td>
