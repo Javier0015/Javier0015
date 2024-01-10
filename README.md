@@ -8,9 +8,6 @@
 <h5>My GitHub Stats</h5>
 <td width="50%" align="center">
   
- 
-  <br></br>
-  
 
 
 </td>
