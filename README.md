@@ -6,6 +6,7 @@
 </p>
 
 <h5>My GitHub Stats</h5>
+<br>
 <td width="50%" align="center">
   
 
