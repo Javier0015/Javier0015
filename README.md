@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=TI+Entornos+virtuales+y+negocios+digitales;++;Programador+Web;Desarrollador+de+videojuegos;Desarrollador+de+realidades+extendidas;Me+Gusta+aprender+cosas+nuevas...<3"></a>
 </p>
-<br>
+
 <h5>My GitHub Stats</h5>
 <td width="50%" align="center">
   
