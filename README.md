@@ -6,9 +6,13 @@
 </p>
 <br>
 <h5>My GitHub Stats</h5>
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javier0015" />
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javier0015&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Javier0015&theme=dark&hide_border=false" /> 
+</td>
+
 </td>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
