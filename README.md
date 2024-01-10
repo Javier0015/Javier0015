@@ -1,10 +1,12 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=TI+Entornos+virtuales+y+negocios+digitales;++;Programador+Web;Desarrollador+de+videojuegos;Desarrollador+de+realidades+extendidas;Me+Gusta+aprender+cosas+nuevas...<3"></a>
 </p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 
 <h1 align="center"><b>Hola, soy Javier Barrera <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
 <!--  -->
