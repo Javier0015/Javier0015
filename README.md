@@ -90,11 +90,7 @@
 
 <br>
 
-<div align="center">
-  <a>
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
