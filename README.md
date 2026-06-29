@@ -1,107 +1,129 @@
+<!-- ===================== HEADER ===================== -->
 
-
-
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
- 
-
-
-<!-- GIF HEADER -->
-
-
-<h1 align="center"><b>Hola, soy Javier Barrera <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
-<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=ING+Entornos+virtuales+y+negocios+digitales;++;Programador+Web;Desarrollador+de+videojuegos;Desarrollador+de+realidades+extendidas;Me+gusta+aprender+cosas+nuevas...<3"></a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:06b6d4&height=210&section=header&text=Javier%20Barrera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Web%20Development%20%7C%20Digital%20Solutions&descAlignY=56&descSize=16"
+    width="100%"
+    alt="Javier Barrera"
+  />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-
-
-<td width="50%" align="center">
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javier0015&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" />
-  <br></br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Javier0015&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Javier0015&locale=en&bg_color=0d1117&text_color=ffffff"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-</p>        
-<!--- stats (end) -->
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-</td>
-<br>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,anaconda,androidstudio,azure,py,html,cs,bootstrap,css,js,php,ts,dotnet,nodejs,laravel,mysql,docker,netlify,unity,unreal,godot,blender,ai,ps,linux,opencv,visualstudio,vscode,atom" />
-    </a>
-  </p>
-
-
-
-
-<br>
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<div align='left'>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/francisco-javier-barrera-romero-27879b2a9/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/franciscojavier.barreraromero" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/javier_romero121/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-	  <a href="https://wa.me/qr/L5EIZZOR2KTED1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Web+Development+%7C+APIs+%7C+Databases;Building+digital+solutions;Always+learning+new+technologies"
+    alt="Typing SVG"
+  />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Javier0015">
+    <img src="https://img.shields.io/badge/GitHub-Javier0015-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-javier-barrera-romero-27879b2a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<br>
+---
 
+## 👋 Sobre mí
 
+Soy **Javier Barrera**, desarrollador enfocado en crear soluciones digitales funcionales, modernas y orientadas a resolver problemas reales.
 
+Me interesa especialmente el desarrollo de aplicaciones web, sistemas administrativos, automatización de procesos, bases de datos y experiencias digitales claras para los usuarios.
 
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo Full Stack, arquitectura de aplicaciones, despliegue y tecnologías cloud.
+
+---
+
+## 💻 Áreas de interés
+
+* Desarrollo Web Frontend y Backend.
+* Aplicaciones Full Stack.
+* APIs REST e integración de servicios.
+* Bases de datos y diseño de sistemas.
+* Automatización de procesos.
+* Dashboards y visualización de información.
+* Diseño de interfaces modernas y responsivas.
+* Soluciones digitales para negocios.
+
+---
+
+## 🛠️ Tecnologías principales
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,nodejs,express,postgres,mysql,docker,git,github,linux,vscode" />
+</p>
+
+## 📚 También he trabajado con
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python,unity,blender,azure,html,css" />
+</p>
+
+---
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Javier0015&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE"
+    alt="Estadísticas de GitHub"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier0015&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
+ alt="Lenguajes principales"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Javier0015&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E"
+    alt="Racha de contribuciones"
+  />
+</p>
+
+---
+
+## 🎯 Actualmente
+
+```txt
+Aprendiendo constantemente.
+Construyendo soluciones web.
+Mejorando mis habilidades Full Stack.
+Explorando nuevas tecnologías y herramientas.
+```
+
+---
+
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-javier-barrera-romero-27879b2a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Javier%20Barrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
+  <a href="https://www.instagram.com/javier_romero121/">
+    <img src="https://img.shields.io/badge/Instagram-@javier__romero121-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
+  <a href="https://wa.me/5217713948794">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
+<p align="center">
+  <i>"La tecnología tiene más valor cuando ayuda a resolver problemas reales."</i>
+</p>
 
-
-
-
-
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:06b6d4&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
