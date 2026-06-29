@@ -1,5 +1,3 @@
-<!-- ===================== ENCABEZADO ===================== -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:06b6d4&height=220&section=header&text=Javier%20Barrera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Desarrollador%20Full%20Stack%20%7C%20Desarrollo%20Web%20%7C%20Soluciones%20Digitales&descAlignY=56&descSize=16"
@@ -45,83 +43,58 @@ Disfruto aprender nuevas tecnologías y aplicarlas para resolver problemas reale
 
 ## Áreas de enfoque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Desarrollo Frontend</h3>
-      <p>
-        Creación de interfaces modernas, responsivas y orientadas a una buena experiencia de usuario.
-      </p>
-      <ul>
-        <li>Aplicaciones web</li>
-        <li>Interfaces responsivas</li>
-        <li>Paneles administrativos</li>
-        <li>Experiencia de usuario</li>
-      </ul>
-    </td>
+### Desarrollo Frontend
 
-```
-<td width="50%" valign="top">
-  <h3>Desarrollo Backend</h3>
-  <p>
-    Desarrollo de servicios, lógica de negocio e integración entre sistemas.
-  </p>
-  <ul>
-    <li>APIs REST</li>
-    <li>Autenticación y permisos</li>
-    <li>Lógica de negocio</li>
-    <li>Integración de servicios</li>
-  </ul>
-</td>
-```
+Creación de interfaces modernas, responsivas y orientadas a una buena experiencia de usuario.
 
-  </tr>
+* Aplicaciones web
+* Interfaces responsivas
+* Paneles administrativos
+* Experiencia de usuario
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Datos y procesos</h3>
-      <p>
-        Organización de información y digitalización de procesos para mejorar la operación de los sistemas.
-      </p>
-      <ul>
-        <li>Bases de datos relacionales</li>
-        <li>Reportes y dashboards</li>
-        <li>Gestión de información</li>
-        <li>Automatización de procesos</li>
-      </ul>
-    </td>
+### Desarrollo Backend
 
-```
-<td width="50%" valign="top">
-  <h3>Infraestructura y crecimiento</h3>
-  <p>
-    Mejora continua en despliegue, arquitectura, calidad y escalabilidad de aplicaciones.
-  </p>
-  <ul>
-    <li>Docker y despliegues</li>
-    <li>Entornos Linux</li>
-    <li>Arquitectura de software</li>
-    <li>Aprendizaje continuo</li>
-  </ul>
-</td>
-```
+Desarrollo de servicios, lógica de negocio e integración entre sistemas.
 
-  </tr>
-</table>
+* APIs REST
+* Autenticación y permisos
+* Lógica de negocio
+* Integración de servicios
+
+### Datos y procesos
+
+Organización de información y digitalización de procesos para mejorar la operación de los sistemas.
+
+* Bases de datos relacionales
+* Reportes y dashboards
+* Gestión de información
+* Automatización de procesos
+
+### Infraestructura y crecimiento
+
+Mejora continua en despliegue, arquitectura, calidad y escalabilidad de aplicaciones.
+
+* Docker y despliegues
+* Entornos Linux
+* Arquitectura de software
+* Aprendizaje continuo
 
 ---
 
 ## Tecnologías principales
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,nodejs,express,postgres,mysql,docker,git,github,linux,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,nodejs,expressjs,postgres,mysql,docker,git,github,linux,vscode"
+    alt="Tecnologías principales"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -129,30 +102,29 @@ Disfruto aprender nuevas tecnologías y aplicarlas para resolver problemas reale
 ## Experiencia adicional
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python,html,css,unity,blender,azure" />
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python,html,css,unity,blender,azure"
+    alt="Tecnologías adicionales"
+  />
 </p>
 
 ---
 
 ## Objetivos actuales
 
-```txt
-Mejorar continuamente mis habilidades como desarrollador Full Stack.
-Crear soluciones digitales confiables, escalables y mantenibles.
-Profundizar en arquitectura de software y despliegue de aplicaciones.
-Explorar nuevas herramientas, tecnologías y buenas prácticas.
-```
+* Fortalecer continuamente mis habilidades como desarrollador Full Stack.
+* Crear soluciones digitales confiables, escalables y mantenibles.
+* Profundizar en arquitectura de software y despliegue de aplicaciones.
+* Explorar nuevas herramientas, tecnologías y buenas prácticas.
 
 ---
 
 ## Principios de desarrollo
 
-```txt
-Escribir código limpio y mantenible.
-Crear soluciones centradas en necesidades reales.
-Aprender y mejorar constantemente.
-Usar la tecnología para simplificar procesos.
-```
+* Escribir código limpio y mantenible.
+* Crear soluciones centradas en necesidades reales.
+* Aprender y mejorar constantemente.
+* Usar la tecnología para simplificar procesos.
 
 ---
 
